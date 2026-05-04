@@ -7,13 +7,13 @@
 
     // ── Product Catalogue ────────────────────────────────────────
     const PRODUCTS = [
-        { id: 1, name: 'Indoor Plants',   price: 45, img: 'https://images.unsplash.com/photo-1545241047-6083a3684587?q=80&w=400&auto=format&fit=crop', link: '#shop' },
-        { id: 2, name: 'Hanging Plants',  price: 35, img: 'https://images.unsplash.com/photo-1485955900006-10f4d324d411?q=80&w=400&auto=format&fit=crop', link: '#shop' },
-        { id: 3, name: 'Tabletop Décor',  price: 55, img: 'https://images.unsplash.com/photo-1517594422361-5eeb8ae275a9?q=80&w=400&auto=format&fit=crop', link: '#shop' },
-        { id: 4, name: 'Wall Greens',     price: 65, img: 'https://images.unsplash.com/photo-1491147334573-44cbb4602074?q=80&w=400&auto=format&fit=crop', link: '#shop' },
-        { id: 5, name: 'Luxe Fern',       price: 50, img: 'https://images.unsplash.com/photo-1501004318641-729e8c22bd8e?q=80&w=400&auto=format&fit=crop', link: '#best-sellers' },
-        { id: 6, name: 'Monstera Chic',   price: 60, img: 'https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?q=80&w=400&auto=format&fit=crop', link: '#best-sellers' },
-        { id: 7, name: 'Sage Corner',     price: 40, img: 'https://images.unsplash.com/photo-1520412099561-64831ebaeeec?q=80&w=400&auto=format&fit=crop', link: '#best-sellers' },
+        { id: 1, name: 'Indoor Plants',   price: 45, img: 'images/product_indoor.png', link: '#shop' },
+        { id: 2, name: 'Hanging Plants',  price: 35, img: 'images/product_hanging.png', link: '#shop' },
+        { id: 3, name: 'Tabletop Décor',  price: 55, img: 'images/product_tabletop.png', link: '#shop' },
+        { id: 4, name: 'Wall Greens',     price: 65, img: 'images/product_wall.png', link: '#shop' },
+        { id: 5, name: 'Luxe Fern',       price: 50, img: 'images/carousel_fern.png', link: '#best-sellers' },
+        { id: 6, name: 'Monstera Chic',   price: 60, img: 'images/carousel_monstera.png', link: '#best-sellers' },
+        { id: 7, name: 'Sage Corner',     price: 40, img: 'images/carousel_sage.png', link: '#best-sellers' },
     ];
 
     // ── Intent Map ────────────────────────────────────────────────
